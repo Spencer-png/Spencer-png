@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Spencer-png/Spencer-png/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
